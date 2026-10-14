@@ -25,7 +25,7 @@ Aplicação web responsiva para realizar sorteios de números aleatórios de for
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/sorteador-de-numeros.git
+   git clone https://github.com/LEANDROFARIASDS/sorteador-de-numeros.git
    ```
 
 2. Entre na pasta do projeto:
